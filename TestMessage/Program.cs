@@ -12,6 +12,7 @@ namespace TestMessage
         {
             System.Console.WriteLine("Success");
 			System.Console.WriteLine("From GitHub");
+			System.Console.WriteLine("Bug Fix Check");
         }
     }
 }
