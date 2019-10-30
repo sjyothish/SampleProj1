@@ -10,7 +10,7 @@ namespace TestMessage
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Jyothish Babu");
+            System.Console.WriteLine("Success");
         }
     }
 }
