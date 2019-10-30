@@ -11,6 +11,7 @@ namespace TestMessage
         static void Main(string[] args)
         {
             System.Console.WriteLine("Success");
+			System.Console.WriteLine("From GitHub");
         }
     }
 }
